@@ -36,3 +36,26 @@ header{
 .hero-title img{
     margin-top: 120px;
 }
+.trasform-sec{
+    padding-left: 100px;
+}
+.trasform-sec h2{
+    font-family: 'Fraunces', serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin-bottom:40px;
+}
+.trasform-sec p{
+    font-family: 'Barlow', sans-serif;
+    color: hsl(210, 4%, 67%);
+    margin-bottom: 40px;
+}
+.trasform-sec a{
+    text-decoration-color: hsl(51, 100%, 49%) ;
+    color: black;
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    text-transform: uppercase;
+      
+    
+}
