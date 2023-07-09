@@ -59,3 +59,35 @@ header{
       
     
 }
+.graphic-bg{
+    background-image: url(../images/desktop/image-graphic-design.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.graphic-bg h3{
+    padding-top: 350px;
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    color: hsl(167, 40%, 24%);
+}
+.graphic-bg p{
+    font-family: 'Barlow', sans-serif;
+    color: hsl(167, 40%, 24%);
+}
+.photo-bg{
+    background-image: url(../images/desktop/image-photography.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.photo-bg h3{
+    padding-top: 350px;
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    color: hsl(198, 62%, 26%);
+}
+.photo-bg p{
+    font-family: 'Barlow', sans-serif;
+    color: hsl(198, 62%, 26%);
+}
