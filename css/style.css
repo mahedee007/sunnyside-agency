@@ -91,6 +91,10 @@ header{
     font-family: 'Barlow', sans-serif;
     color: hsl(198, 62%, 26%);
 }
+
+/*-----------------
+ TESTIMONIAL STARTS
+ ------------------ */
 #testimonials{
     margin-top: 150px;
 }
@@ -117,4 +121,33 @@ header{
     font-family: 'Barlow', sans-serif;
     color: hsl(210, 4%, 67%);
     font-size: 0.9rem;
+}
+
+/*---------------
+ FOOTER STARTS 
+ ----------------*/
+footer{
+    background-color:hsl(168, 34%, 41%);
+    padding-top: 100px;
+    
+}
+footer img{
+    padding-bottom: 60px;
+}
+footer a{
+    text-decoration: none;
+    color:hsl(167, 40%, 24%);
+    font-family: 'Barlow', sans-serif;
+    cursor: pointer;
+    
+}
+footer a:hover{
+    color:white;
+}
+.social-icon{
+    padding-top:50px;
+}
+.social-icon img{
+    cursor: pointer;
+
 }
