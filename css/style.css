@@ -91,3 +91,13 @@ header{
     font-family: 'Barlow', sans-serif;
     color: hsl(198, 62%, 26%);
 }
+#testimonials{
+    margin-top: 150px;
+}
+#testimonials h3{
+    font-family: 'Fraunces', serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size:1.2rem;
+    color: hsl(210, 4%, 67%);
+}
