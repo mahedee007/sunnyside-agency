@@ -45,9 +45,9 @@ header{
 /*------------------
  Transfor Section 
  -------------------*/
-/* .trasform-sec{
+.trasform-sec{
     padding-left: 100px;
-} */
+}
 .trasform-sec h2{
     font-family: 'Fraunces', serif;
     font-size: 2.5rem;

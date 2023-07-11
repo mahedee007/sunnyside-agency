@@ -4,6 +4,10 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
-@media screen {
+@media screen and (max-width:768px){
+    .trasform-sec{
+        padding-left: 0;
+        padding-top: 15px;
+    }
     
 }
