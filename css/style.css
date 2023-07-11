@@ -4,10 +4,15 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+
+/*-----------------
+ TOP SECTION 
+ ------------------*/
 header{
     background-image: url(../images/desktop/image-header.jpg);
     height: 100vh;
-    
+    width: 100%;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -23,22 +28,26 @@ header{
     
 }
 .hero-title{
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .hero-title h1{
     font-family: 'Fraunces', serif;
-    font-size: 3rem;
+    font-size: 2.6rem;
     font-weight: 900;
     color: hsl(0, 0%, 100%);
     letter-spacing: 10px;
     text-transform: uppercase;
 }
 .hero-title img{
-    margin-top: 120px;
+    margin-top: 80px;
 }
-.trasform-sec{
+
+/*------------------
+ Transfor Section 
+ -------------------*/
+/* .trasform-sec{
     padding-left: 100px;
-}
+} */
 .trasform-sec h2{
     font-family: 'Fraunces', serif;
     font-size: 2.5rem;
@@ -62,6 +71,8 @@ header{
 .graphic-bg{
     background-image: url(../images/desktop/image-graphic-design.jpg);
     height: 100vh;
+    width: 50%;
+    background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -78,6 +89,8 @@ header{
 .photo-bg{
     background-image: url(../images/desktop/image-photography.jpg);
     height: 100vh;
+    width: 50%;
+    background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
