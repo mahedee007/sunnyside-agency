@@ -68,7 +68,7 @@ header{
       
     
 }
-.graphic-bg{
+/* .graphic-bg{
     background-image: url(../images/desktop/image-graphic-design.jpg);
     height: 100vh;
     width: 50%;
@@ -103,7 +103,7 @@ header{
 .photo-bg p{
     font-family: 'Barlow', sans-serif;
     color: hsl(198, 62%, 26%);
-}
+} */
 
 /*-----------------
  TESTIMONIAL STARTS
