@@ -68,13 +68,14 @@ header{
       
     
 }
-/* .graphic-bg{
-    background-image: url(../images/desktop/image-graphic-design.jpg);
-    height: 100vh;
-    width: 50%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
+ .graphic-bg{
+    position: relative;
+    
+}
+.graphic-description,.photography-description{
+    position: absolute;
+    top:0;
+    left: 25%;
 }
 .graphic-bg h3{
     padding-top: 350px;
@@ -87,12 +88,7 @@ header{
     color: hsl(167, 40%, 24%);
 }
 .photo-bg{
-    background-image: url(../images/desktop/image-photography.jpg);
-    height: 100vh;
-    width: 50%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
+    position: relative;
 }
 .photo-bg h3{
     padding-top: 350px;
@@ -103,7 +99,7 @@ header{
 .photo-bg p{
     font-family: 'Barlow', sans-serif;
     color: hsl(198, 62%, 26%);
-} */
+} 
 
 /*-----------------
  TESTIMONIAL STARTS

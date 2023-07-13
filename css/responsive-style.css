@@ -9,5 +9,8 @@ body{
         padding-left: 0;
         padding-top: 15px;
     }
-    
+    .graphic-description,.photography-description{
+        left:20%;
+        top:-20%;
+    }
 }
